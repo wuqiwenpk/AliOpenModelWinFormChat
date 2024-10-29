@@ -10,7 +10,7 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\code\\github\\AliOpenModelWinFormChat\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21DB6189-80CE-42C6-AD84-85AD182F51A4}|AliChat\\AliChat.csproj|c:\\code\\github\\aliopenmodelwinformchat\\alichat\\alichat\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{21DB6189-80CE-42C6-AD84-85AD182F51A4}|AliChat\\AliChat.csproj|C:\\code\\github\\AliOpenModelWinFormChat\\AliChat\\alichat\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{21DB6189-80CE-42C6-AD84-85AD182F51A4}|AliChat\\AliChat.csproj|solutionrelative:alichat\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
@@ -61,8 +61,7 @@
               "RelativeToolTip": "AliChat\\App.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-10-29T06:11:33.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T06:11:33.666Z"
             },
             {
               "$type": "Document",
@@ -74,8 +73,7 @@
               "RelativeToolTip": "..\\README.md",
               "ViewState": "AQIAAAYAAAAAAAAAAAAiwCIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-10-29T05:48:51.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T05:48:51.27Z"
             },
             {
               "$type": "Document",
@@ -87,8 +85,7 @@
               "RelativeToolTip": "AliChat\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T03:47:20.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T03:47:20.318Z"
             },
             {
               "$type": "Document",
@@ -99,8 +96,7 @@
               "ToolTip": "C:\\code\\github\\AliOpenModelWinFormChat\\AliChat\\AliChat\\Form1.resx",
               "RelativeToolTip": "AliChat\\Form1.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-10-29T03:38:15.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T03:38:15.424Z"
             },
             {
               "$type": "Document",
@@ -112,8 +108,7 @@
               "RelativeToolTip": "AliChat\\AliApiResultModel.cs",
               "ViewState": "AQIAAEQAAAAAAAAAAAAQwEYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T02:59:27.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T02:59:27.266Z"
             },
             {
               "$type": "Document",
@@ -123,7 +118,7 @@
               "RelativeDocumentMoniker": "AliChat\\AliAPI.cs",
               "ToolTip": "C:\\code\\github\\AliOpenModelWinFormChat\\AliChat\\AliChat\\AliAPI.cs",
               "RelativeToolTip": "AliChat\\AliAPI.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T02:41:59.371Z",
               "EditorCaption": ""
@@ -138,8 +133,7 @@
               "RelativeToolTip": "AliChat\\Form1.Designer.cs",
               "ViewState": "AQIAAEIAAAAAAAAAAAAnwHAAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T02:40:49.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T02:40:49.551Z"
             },
             {
               "$type": "Document",
@@ -151,8 +145,7 @@
               "RelativeToolTip": "AliChat\\Form1.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAhwDEAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T02:27:00.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T02:27:00.313Z"
             },
             {
               "$type": "Document",
@@ -163,8 +156,7 @@
               "ToolTip": "C:\\code\\github\\AliOpenModelWinFormChat\\AliChat\\AliChat\\Form1.cs [\u8BBE\u8BA1]",
               "RelativeToolTip": "AliChat\\Form1.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T02:24:09.82Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2024-10-29T02:24:09.82Z"
             }
           ]
         }

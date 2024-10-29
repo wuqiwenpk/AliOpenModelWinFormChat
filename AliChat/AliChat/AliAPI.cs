@@ -13,7 +13,7 @@ namespace AliChat
         private static readonly HttpClient httpClient = new HttpClient();
         // 访问阿里，注册并获取api-key https://bailian.console.aliyun.com/?apiKey=1#/api-key
         // 配置你自己的api-ket
-        private static string apiKey = "sk-f34f9619ba1846d08eea835efaa8279f";
+        private static string apiKey = "you-api-key";
 
         /// <summary>
         /// 问答请
